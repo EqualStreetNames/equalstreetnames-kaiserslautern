@@ -1,5 +1,5 @@
-type;id;name;gender
-way;Familiennamen Flicker;Flickerstal;+
+type,id,name,gender
+way,Familiennamen Flicker,Flickerstal,+
 way;Vornamen einer Anwohnerin;Amalienstraße;F
 way;Q164294;Annastraße;F
 way;Q57541;Augustastraße;F
