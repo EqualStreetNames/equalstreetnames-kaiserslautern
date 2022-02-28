@@ -10,15 +10,15 @@ way;Q1768;Ella-Fitzgerald-Weg;F
 way;Q541194;Emmagasse;F
 way;Vornamen einer Anwohnerin;Helenenstraße;F
 way;Q1618237;Hilde-Mattauch-Platz;F
-way;1899, B. nach Katharina Werle, Bremerhof (*1857, †1903), deren Familie das Gelände zur Anlegung der Straße der Stadt überließ.;Katharinenstraße;F
+way;Katharina Werle, Bremerhof (*1857, †1903);Katharinenstraße;F
 way;Q142472;Käthe-Kollwitz-Straße;F
 way;Q1825653;Lina-Staab-straße;F
 way;Q2562888;Luisenstraße;F
 way;Q48754987;Lutrinastraße;F
 way;Q7186;Marie-Curie-Straße;F
 way;Q85820;Marie-Juchacz-Straße;F
-way;1881, Willk. B. nach dem Vornamen einer Anwohnerin.;Marienstraße;F
-way;1879, B. nach dem Vornamen einer Anwohnerin.;Sophienstraße;F
+way;Vornamen einer Anwohnerin.;Marienstraße;F
+way;Vornamen einer Anwohnerin.;Sophienstraße;F
 way;Q345;St.-Marien-Platz;F
 way;Q2369188;Susanne-Faschon-straße;F
 way;Q233198;Theresienstraße;F
@@ -34,12 +34,12 @@ way;Q153956;Albrechtstraße;M
 way;Q50329402;Alex-Müller-Straße;M
 way;Spitaleinnehmer und späteren Anwalt Franz Anton Abend;Am Abendsberg;M
 way;Müller namens Elbrich;Am Alberichsberg;M
-way;"1952, B. nach Fln. Dort lag 1565 ein dem Spital gehörender Garten, dessen Pächter damals ein Hanß Hock, genannt der ""Blutt"" (Kahlkopf) gewesen war.";Am Blutacker;M
+way;Pächter Hanß Hock, genannt der Blutt (Kahlkopf);Am Blutacker;M
 way;Anwohner namens Glas;Am Glasberg;M
 way;Q130221;Am Kaiserwoog;M
 way;Q193507;Am Stophelspfad;M
-way;1950, B. nach der um 1896 hier geschaffenen Anlage, die dem um 1900 in Milwaukee (USA) verstorbenen Bierbrauer und Wohltäter für die Bürger, Emil Schandein aus Kaiserslautern, gewidmet war.;An der Emilsruhe;M
-way;"1982, B. nach dem Beständer des Kreuzhofes, Johann Nikolaus Assenmacher. Verstorben 1769 durch Jagdunfall bei der Lauterspring (dort das Hannickelskreuz"").";Assenmacherstraße;M
+way; Bierbrauer und Wohltäter Emil Schandein aus Kaiserslautern;An der Emilsruhe;M
+way;Beständer des Kreuzhofes Johann Nikolaus Assenmacher;Assenmacherstraße;M
 way;August Herrmann;August-Herrmann-straße;M
 way;Q55683930;Balbierstraße;M
 way;Q79789;Barbarossaring;M
@@ -49,16 +49,16 @@ way;Bierbrauer Franz Daniel Bender (*1815, † 1881);Bendergasse;M
 way;Q1541647;Benzinoring;M
 way;Q8442;Bismarckstraße;M
 way;Q153522;Blücherstraße;M
-way;"Ludwig (Louis) Böcking; Kaufmann und Mitbegründer des hiesigen Bankhauses ""Böcking, Karcher & Co"", aus dem die Filiale der Deutschen Bank hervorging";Böckingstraße;M
+way;Ludwig (Louis) Böcking, Kaufmann und Mitbegründer des hiesigen Bankhauses Böcking, Karcher & Co, aus dem die Filiale der Deutschen Bank hervorging;Böckingstraße;M
 way;Q7294;Brahmsstraße;M
-way;1981, B. nach Kommerzienrat Carl Billand. Ab 1898 Direktor des Guss- und Armaturwerkes Kaiserslautern (*1872 Ludwigshafen, †1951 Kaiserslautern). Förderer der Ausgrabungen der Reste des Casimirschlosses.;Carl-Billand-Straße;M
+way;Kommerzienrat Carl Billand, ab 1898 Direktor des Guss- und Armaturwerkes Kaiserslautern (*1872 Ludwigshafen, †1951 Kaiserslautern);Carl-Billand-Straße;M
 way;Carl Denk;Carl-Denk-straße;M
 way;Carl Diem;Carl-Diem-straße;M
 way;Q28058108;Carl-Euler-Straße;M
 way;Q40224;Carl-F.-Benz-Straße;M
 way;Carl Jacob;Carl-Jacob-straße;M
 way;Q67511;Carlo-Schmid-Straße;M
-way;1952, B. nach dem in Mexiko lebenden und dort 1961 verstorbenen Industriellen Carl Reichert (* 1873 in Kaiserslautern). Förderer des hiesigen Humanistischen Gymnasiums.;Carl-Reichert-Straße;M
+way;Industriellen Carl Reichert (* 1873 in Kaiserslautern, †1961);Carl-Reichert-Straße;M
 way;Q127437;Carl-Schurz-Straße;M
 way;Q107712;Carl-Sonnenschein-Straße;M
 way;Q62482;Casimirring;M
@@ -72,9 +72,9 @@ way;Q2059114;Denisstraße;M
 way;Q5580;Dürerstraße;M
 way;Q2646;Ebertstraße;M
 way;Kommerzienrat Nikolaus Eckel (* 1815, † 1882);Eckelstraße;M
-way;"1950, B. nach dem hiesigen Zigarrenfabrikanten und Förderer des pfälzischen Tabakanbaues, Emil Caesar (* 1854, † 1922). Dieser legte auch den ""Caesarpark"" an.";Emil-Caesar-Straße;M
+way;Zigarrenfabrikanten und Förderer des pfälzischen Tabakanbaues, Emil Caesar (* 1854, † 1922);Emil-Caesar-Straße;M
 way;Q1338637;Emmerich-Smola-Platz;M
-way;1979, B. nach dem Kaufmann und Stadtrat Jakob Eppler, der einst in diesem Bereich gewohnt hatte. Bereits seit 1859 war eine Epplergasse in etwa gleicher Lage vorhanden, die durch die Altstadtsanierung aufgehoben wurde.;Epplergasse;M
+way;Kaufmann und Stadtrat Jakob Eppler;Epplergasse;M
 way;Q59529032;Ernst-Christmann-straße;M
 way;Q9130;Erwin-Schrödinger-Straße;M
 way;Q94917980;Eugen-Bindewald-Straße;M
@@ -85,7 +85,7 @@ way;Q250194;Feuerbachstraße;M
 way;Q76632;Fontanestraße;M
 way;Franz Becht;Franz-Becht-straße;M
 way;Franz Rettig;Franz-Rettig-straße;M
-way;1983, B. nach dem Pädagogen Franz Wilking (*1868 Rothselberg, †1944 Kaiserslautern), der an der nahe gelegenen Luitpoldschule tätig gewesen war. Förderer der Kurzschrift.;Franz-Wilking-Straße;M
+way;Pädagogen Franz Wilking (*1868 Rothselberg, †1944 Kaiserslautern);Franz-Wilking-Straße;M
 way;Q50328768;Franz-Xaver-Baumann-Straße;M
 way;Q213542;Freiherr-vom-Stein-straße;M
 way;Q34787;Friedrich-Engels-Straße;M
@@ -120,9 +120,9 @@ way;Q9235;Hegelstraße;M
 way;Q44403;Heinrich-Heine-Straße;M
 way;Heinrich Schmitt;Heinrich-Schmitt-straße;M
 way;Heinz Friedel;Heinz-Friedel-straße;M
-way;"1996, B. nach Prof. Hellmut Hartert, (†1993); er war Chefarzt am städt. Krankenhaus von 1961 - 1983.";Hellmut-Hartert-Straße;M
+way;Prof. Hellmut Hartert, (†1993);Hellmut-Hartert-Straße;M
 way;Q155547;Herderstraße;M
-way;1955, B. nach dem Baumeister und Industriellen Hermann Gehlen (*1876 Vörden/ Westf., †1952 Kaiserslautern).;Hermann-Gehlen-Straße;M
+way;Baumeister und Industriellen Hermann Gehlen (*1876 Vörden/ Westf., †1952 Kaiserslautern);Hermann-Gehlen-Straße;M
 way;Q25973;Hermann-Hesse-Straße;M
 way;Q77486;Hermann-Löns-Straße;M
 way;Q213533;Herzog-von-Weimar-Straße;M
@@ -136,8 +136,8 @@ way;Q1358757;Huberstraße;M
 way;Q6694;Humboldtstraße;M
 way;Bürgermeister Daniel Hummel (*1771 Westhofen bei Straßburg, †1850 Kaiserslautern);Hummelstraße;M
 way;Q1611561;Hussongstraße;M
-way;1973, B. nach dem Obersteiger des früheren Bergwerkes auf den Erzhütten. Jacob Diehl war hier seit etwa 1740 tätig.;Jacob-Diehl-Straße;M
-way;"1975, B. nach dem Industriellen Jacob Pfeiffer; Besitzer einer Eisengießerei (*1809 Thaleischweiler, †1888 Kaiserslautern).Vater des Maschinenfabrikanten Kommerzienrat Jakob Pfeiffer (†1919),";Jacob-Pfeiffer-Straße;M
+way;Obersteiger des früheren Bergwerkes Jacob Diehl, seit etwa 1740 tätig.;Jacob-Diehl-Straße;M
+way;Industriellen Jacob Pfeiffer (*1809 Thaleischweiler, †1888 Kaiserslautern);Jacob-Pfeiffer-Straße;M
 way;Q50824909;Jacobstraße;M
 way;Q1251924;Jägerstraße;M
 way;Jakob Blenk;Jakob-Blenk-straße;M
@@ -145,7 +145,7 @@ way;Vornamen eines Bewohners;Josefstraße;M
 way;Joseph Neumayer;Joseph-Neumayer-straße;M
 way;Julius Gravius;Julius-Gravius-Weg;M
 way;Julius Krieger;Julius-Krieger-straße;M
-way;"1950, B. nach Andreas (genannt Julius) Küchler (*1839 Mannheim, †1925 Kaiserslautern); Heimatforscher und Verfasser der Chronik von Kaiserslautern; Ehrengrab auf dem Friedhof.";Julius-Küchler-Straße;M
+way;Andreas (genannt Julius) Küchler (*1839 Mannheim, †1925 Kaiserslautern);Julius-Küchler-Straße;M
 way;Q215845;Jung-Stilling-Straße;M
 way;Q150652;Kaiserstraße;M
 way;Q61064;Kandinskystraße;M
@@ -170,9 +170,9 @@ way;Q75784;Lassallestraße;M
 way;Q9047;Leibnizstraße;M
 way;Q34628;Lessingstraße;M
 way;Q16571;Liebigstraße;M
-way;"Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß (""Lothringerhof"")";Lothringer Dell;M
-way;"Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß (""Lothringerhof"")";Lothringer Schlag;M
-way;"1955, B. nach Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß (""Lothringerhof""), das 1793 zusammengeschossen wurde. Eine ältere Lothringer Straße wurde 1955 in Hermann-Gehlen-Straße umbenannt.";Lothringer Straße;M
+way;Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Dell;M
+way;Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Schlag;M
+way;Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Straße;M
 way;Q2496;Ludwig-Erhard-Straße;M
 way;Q44361;Ludwigstraße;M
 way;Q45309;Ludwig-Thoma-Straße;M
@@ -190,7 +190,7 @@ way;Q1446794;Meuthstraße;M
 way;Q66808;Möllendorfstraße;M
 way;Q44205;Moltkestraße;M
 way;Q254;Mozartstraße;M
-way;1972, B. nach Georg Michael v. Obermaier. (*1789 Neukirchen b. Hl. Blut, † nach 1862 München). Vorkämpfer für humanere Strafhaft. Direktor des Zentralgefängnisses Kaiserslautern 1830 - 1843.;Obermaierstraße;M
+way;Georg Michael v. Obermaier. (*1789 Neukirchen b. Hl. Blut, † nach 1862 München);Obermaierstraße;M
 way;Q15438473;Orffstraße;M
 way;Bürgermeister, Hofrat Dr. med. Theodor Orth (*1837, †1913);Orthstraße;M
 way;Q458816;Oskar-Schlemmer-Ring;M
@@ -214,7 +214,7 @@ way;1984, B. nach Prof. Hanns Dietrich (*1882, †1974 Kaiserslautern). Hanns Di
 way;Hufschmied und Ökonom Carl Raab, Mitbegründer Speditionsfirma Großfirma Raab, Karcher & Cie, Essen;Raabengasse;M
 way;Q27941958;Richard-Menges-Straße;M
 way;Q1511;Richard-Wagner-Straße;M
-way;"Löwenapotheker und Gründer der ""Bienengesellschaft"" Johann Riem (*1739 Frankenthal,  †1807 als Commissionsrat in Dresden)";Riemstraße;M
+way;Löwenapotheker Johann Riem (*1739 Frankenthal,  †1807 als Commissionsrat in Dresden);Riemstraße;M
 way;Q91364;Röchlingstraße;M
 way;Q77281;Roonstraße;M
 way;Q6527;Rousseaustraße;M
@@ -241,7 +241,7 @@ way;Feldschützen Anton Heuser;Schützenstraße;M
 way;Q537554;Siegfriedstraße;M
 way;Q58577;Siemensstraße;M
 way;Q703356;Slevogtstraße;M
-way;"Karl Spaeth, dem Gastwirt des Hotels ""Zum Donnersberg"" (Steinstraße 5), (*1789 Kaiserslautern, †1840 ebenda). Bürgermeister von 1827 bis 1834";Spaethstraße;M
+way;Karl Spaeth, dem Gastwirt des Hotels Zum Donnersberg (Steinstraße 5), (*1789 Kaiserslautern, †1840 ebenda). Bürgermeister von 1827 bis 1834;Spaethstraße;M
 way;Q35802;Spinozastraße;M
 way;Q61151;Sprangerstraße;M
 way;Q676555;St.-Franziskus-Straße;M
