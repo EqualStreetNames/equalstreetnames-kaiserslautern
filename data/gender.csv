@@ -10,7 +10,7 @@ way;Q1768;Ella-Fitzgerald-Weg;F
 way;Q541194;Emmagasse;F
 way;Vornamen einer Anwohnerin;Helenenstraße;F
 way;Q1618237;Hilde-Mattauch-Platz;F
-way;Katharina Werle(*1857, †1903);Katharinenstraße;F
+way;Katharina Werle(*1857 †1903);Katharinenstraße;F
 way;Q142472;Käthe-Kollwitz-Straße;F
 way;Q1825653;Lina-Staab-straße;F
 way;Q2562888;Luisenstraße;F
@@ -22,7 +22,7 @@ way;Vornamen einer Anwohnerin.;Sophienstraße;F
 way;Q345;St.-Marien-Platz;F
 way;Q2369188;Susanne-Faschon-straße;F
 way;Q233198;Theresienstraße;F
-way;Direktor der 1858 gegründeten Gasanstalt (*1835 K’lautern, †1905 K’lautern);Adam-Hoffmann-Straße;M
+way;Direktor der 1858 gegründeten Gasanstalt (*1835 K’lautern †1905 K’lautern);Adam-Hoffmann-Straße;M
 way;Q352903;Addi-Schaurer-Platz;M
 way;Vornamen eines Anwohners;Adolfstraße;M
 way;Q60619;Adolph-Kolping-Platz;M
@@ -34,7 +34,7 @@ way;Q153956;Albrechtstraße;M
 way;Q50329402;Alex-Müller-Straße;M
 way;Spitaleinnehmer und späteren Anwalt Franz Anton Abend;Am Abendsberg;M
 way;Müller namens Elbrich;Am Alberichsberg;M
-way;Pächter Hanß Hock, genannt der Blutt (Kahlkopf);Am Blutacker;M
+way;Pächter Hanß Hock genannt der Blutt (Kahlkopf);Am Blutacker;M
 way;Anwohner namens Glas;Am Glasberg;M
 way;Q130221;Am Kaiserwoog;M
 way;Q193507;Am Stophelspfad;M
@@ -45,20 +45,20 @@ way;Q55683930;Balbierstraße;M
 way;Q79789;Barbarossaring;M
 way;Q79789;Barbarossastraße;M
 way;Q255;Beethovenstraße;M
-way;Bierbrauer Franz Daniel Bender (*1815, † 1881);Bendergasse;M
+way;Bierbrauer Franz Daniel Bender (*1815 † 1881);Bendergasse;M
 way;Q1541647;Benzinoring;M
 way;Q8442;Bismarckstraße;M
 way;Q153522;Blücherstraße;M
-way;Ludwig (Louis) Böcking, Kaufmann und Mitbegründer des hiesigen Bankhauses Böcking, Karcher & Co, aus dem die Filiale der Deutschen Bank hervorging;Böckingstraße;M
+way;Ludwig (Louis) Böcking Kaufmann und Mitbegründer des hiesigen Bankhauses Böcking Karcher & Co aus dem die Filiale der Deutschen Bank hervorging;Böckingstraße;M
 way;Q7294;Brahmsstraße;M
-way;Kommerzienrat Carl Billand, ab 1898 Direktor des Guss- und Armaturwerkes Kaiserslautern (*1872 Ludwigshafen, †1951 Kaiserslautern);Carl-Billand-Straße;M
+way;Kommerzienrat Carl Billand ab 1898 Direktor des Guss- und Armaturwerkes Kaiserslautern (*1872 Ludwigshafen †1951 Kaiserslautern);Carl-Billand-Straße;M
 way;Carl Denk;Carl-Denk-straße;M
 way;Carl Diem;Carl-Diem-straße;M
 way;Q28058108;Carl-Euler-Straße;M
 way;Q40224;Carl-F.-Benz-Straße;M
 way;Carl Jacob;Carl-Jacob-straße;M
 way;Q67511;Carlo-Schmid-Straße;M
-way;Industriellen Carl Reichert (* 1873 in Kaiserslautern, †1961);Carl-Reichert-Straße;M
+way;Industriellen Carl Reichert (* 1873 in Kaiserslautern †1961);Carl-Reichert-Straße;M
 way;Q127437;Carl-Schurz-Straße;M
 way;Q107712;Carl-Sonnenschein-Straße;M
 way;Q62482;Casimirring;M
@@ -71,8 +71,8 @@ way;Q19277790;Daniel-Häberle-Straße;M
 way;Q2059114;Denisstraße;M
 way;Q5580;Dürerstraße;M
 way;Q2646;Ebertstraße;M
-way;Kommerzienrat Nikolaus Eckel (* 1815, † 1882);Eckelstraße;M
-way;Zigarrenfabrikanten und Förderer des pfälzischen Tabakanbaues, Emil Caesar (* 1854, † 1922);Emil-Caesar-Straße;M
+way;Kommerzienrat Nikolaus Eckel (* 1815 † 1882);Eckelstraße;M
+way;Zigarrenfabrikanten und Förderer des pfälzischen Tabakanbaues Emil Caesar (* 1854 † 1922);Emil-Caesar-Straße;M
 way;Q1338637;Emmerich-Smola-Platz;M
 way;Kaufmann und Stadtrat Jakob Eppler;Epplergasse;M
 way;Q59529032;Ernst-Christmann-straße;M
@@ -85,7 +85,7 @@ way;Q250194;Feuerbachstraße;M
 way;Q76632;Fontanestraße;M
 way;Franz Becht;Franz-Becht-straße;M
 way;Franz Rettig;Franz-Rettig-straße;M
-way;Pädagogen Franz Wilking (*1868 Rothselberg, †1944 Kaiserslautern);Franz-Wilking-Straße;M
+way;Pädagogen Franz Wilking (*1868 Rothselberg †1944 Kaiserslautern);Franz-Wilking-Straße;M
 way;Q50328768;Franz-Xaver-Baumann-Straße;M
 way;Q213542;Freiherr-vom-Stein-straße;M
 way;Q34787;Friedrich-Engels-Straße;M
@@ -109,7 +109,7 @@ way;Q20882;Gustav-Eiffel-straße;M
 way;Q2573;Gustav-Heinemann-straße;M
 way;Q60549;Gustav-Nachtigal-straße;M
 way;Q8958;Gutenbergstraße;M
-way;Bürgermeister Johann Philipp Hack (*1802, †1865), Förderer des Turnwesens;Hackstraße;M
+way;Bürgermeister Johann Philipp Hack (*1802 †1865) Förderer des Turnwesens;Hackstraße;M
 way;Häfner und Tonwarenfabrikanten Lorenz Mitter.;Häfnerstraße;M
 way;Q7302;Händelstraße;M
 way;Q57189;Hans-Geiger-Straße;M
@@ -120,9 +120,9 @@ way;Q9235;Hegelstraße;M
 way;Q44403;Heinrich-Heine-Straße;M
 way;Heinrich Schmitt;Heinrich-Schmitt-straße;M
 way;Heinz Friedel;Heinz-Friedel-straße;M
-way;Prof. Hellmut Hartert, (†1993);Hellmut-Hartert-Straße;M
+way;Prof. Hellmut Hartert (†1993);Hellmut-Hartert-Straße;M
 way;Q155547;Herderstraße;M
-way;Baumeister und Industriellen Hermann Gehlen (*1876 Vörden/ Westf., †1952 Kaiserslautern);Hermann-Gehlen-Straße;M
+way;Baumeister und Industriellen Hermann Gehlen (*1876 Vörden/ Westf. †1952 Kaiserslautern);Hermann-Gehlen-Straße;M
 way;Q25973;Hermann-Hesse-Straße;M
 way;Q77486;Hermann-Löns-Straße;M
 way;Q213533;Herzog-von-Weimar-Straße;M
@@ -134,10 +134,10 @@ way;Q1731149;Holtzendorffstraße;M
 way;Q81071693;Hornstraße;M
 way;Q1358757;Huberstraße;M
 way;Q6694;Humboldtstraße;M
-way;Bürgermeister Daniel Hummel (*1771 Westhofen bei Straßburg, †1850 Kaiserslautern);Hummelstraße;M
+way;Bürgermeister Daniel Hummel (*1771 Westhofen bei Straßburg †1850 Kaiserslautern);Hummelstraße;M
 way;Q1611561;Hussongstraße;M
-way;Obersteiger des früheren Bergwerkes Jacob Diehl, seit etwa 1740 tätig.;Jacob-Diehl-Straße;M
-way;Industriellen Jacob Pfeiffer (*1809 Thaleischweiler, †1888 Kaiserslautern);Jacob-Pfeiffer-Straße;M
+way;Obersteiger des früheren Bergwerkes Jacob Diehl seit etwa 1740 tätig.;Jacob-Diehl-Straße;M
+way;Industriellen Jacob Pfeiffer (*1809 Thaleischweiler †1888 Kaiserslautern);Jacob-Pfeiffer-Straße;M
 way;Q50824909;Jacobstraße;M
 way;Q1251924;Jägerstraße;M
 way;Jakob Blenk;Jakob-Blenk-straße;M
@@ -145,13 +145,13 @@ way;Vornamen eines Bewohners;Josefstraße;M
 way;Joseph Neumayer;Joseph-Neumayer-straße;M
 way;Julius Gravius;Julius-Gravius-Weg;M
 way;Julius Krieger;Julius-Krieger-straße;M
-way;Andreas (genannt Julius) Küchler (*1839 Mannheim, †1925 Kaiserslautern);Julius-Küchler-Straße;M
+way;Andreas (genannt Julius) Küchler (*1839 Mannheim †1925 Kaiserslautern);Julius-Küchler-Straße;M
 way;Q215845;Jung-Stilling-Straße;M
 way;Q150652;Kaiserstraße;M
 way;Q61064;Kandinskystraße;M
 way;Q9312;Kantstraße;M
-way;Kommerzienrat Carl Karcher (*1841 Kaiserslautern, †1899 Kaiserslautern), Mitbegründer des hiesigen Bankhauses Boecking, Karcher & Cie, heute Filiale der Deutschen Bank;Karcherstraße;M
-way;2001, B. nach dem Kommerzienrat und Baumeister Karl Kröckel (*1861, †1915 jeweils Kaiserslautern), der als erfolgreicher Bauunternehmer hier tätig war.;Karl-Kröckel-Straße;M
+way;Kommerzienrat Carl Karcher (*1841 Kaiserslautern †1899 Kaiserslautern) Mitbegründer des hiesigen Bankhauses Boecking Karcher & Cie heute Filiale der Deutschen Bank;Karcherstraße;M
+way;Kommerzienrat und Baumeister Karl Kröckel (*1861 †1915 jeweils Kaiserslautern);Karl-Kröckel-Straße;M
 way;Karl Lambrecht;Karl-Lambrecht-straße;M
 way;Q9061;Karl-Marx-Straße;M
 way;Q77403;Karl-Peters-Straße;M
@@ -164,20 +164,20 @@ way;Q19960151;Kölchenstraße;M
 way;Q44825;Königstraße;M
 way;Q2492;Konrad-Adenauer-Straße;M
 way;Q60093;Konrad-Zuse-straße;M
-way;Anwohner Anton Kuhn, Schmied und Wagenwärter (*1819 Schrollbach, †1886 Kaiserslautern);Kuhnstraße;M
+way;Anwohner Anton Kuhn Schmied und Wagenwärter (*1819 Schrollbach †1886 Kaiserslautern);Kuhnstraße;M
 way;Q57465;Kurt-Schumacher-Straße;M
 way;Q75784;Lassallestraße;M
 way;Q9047;Leibnizstraße;M
 way;Q34628;Lessingstraße;M
 way;Q16571;Liebigstraße;M
-way;Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Dell;M
-way;Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Schlag;M
-way;Hans Jacob Lothringer, der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Straße;M
+way;Hans Jacob Lothringer der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Dell;M
+way;Hans Jacob Lothringer der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Schlag;M
+way;Hans Jacob Lothringer der dort 1720/1736 ein Erbbestandsgut besaß;Lothringer Straße;M
 way;Q2496;Ludwig-Erhard-Straße;M
 way;Q44361;Ludwigstraße;M
 way;Q45309;Ludwig-Thoma-Straße;M
 way;Q23000770;Ludwig-Waldschmidt-Straße;M
-way;wahrscheinlich nach dem 1269 genannten Bürger Lotzo, dem dortigen früheren Gartenbesitzer;Lutzerstraße;M
+way;wahrscheinlich nach dem 1269 genannten Bürger Lotzo dem dortigen früheren Gartenbesitzer;Lutzerstraße;M
 way;Anwohner Georg Lux;Luxstraße;M
 way;Q9554;Martin-Luther-Straße;M
 way;Q9021;Max-Planck-straße;M
@@ -190,9 +190,9 @@ way;Q1446794;Meuthstraße;M
 way;Q66808;Möllendorfstraße;M
 way;Q44205;Moltkestraße;M
 way;Q254;Mozartstraße;M
-way;Georg Michael v. Obermaier. (*1789 Neukirchen b. Hl. Blut, † nach 1862 München);Obermaierstraße;M
+way;Georg Michael v. Obermaier. (*1789 Neukirchen b. Hl. Blut † nach 1862 München);Obermaierstraße;M
 way;Q15438473;Orffstraße;M
-way;Bürgermeister, Hofrat Dr. med. Theodor Orth (*1837, †1913);Orthstraße;M
+way;Bürgermeister Hofrat Dr. med. Theodor Orth (*1837 †1913);Orthstraße;M
 way;Q458816;Oskar-Schlemmer-Ring;M
 way;Wirt namens Oster (1528);Osterstraße;M
 way;Q315704;Ottmar-Walter-straße;M
@@ -202,15 +202,15 @@ way;Q1290;Pascalstraße;M
 way;Q57089;Paul-Ehrlich-Straße;M
 way;Q22611;Paul-Münch-Straße;M
 way;Q9200;Paulstraße;M
-way;1991, B. nach dem Erbbeständer des Lichtenbrucher Hofes, der davor Temporalbeständer der Ordenskomturei Einsiedel war. Er lebte in der 2. Hälfte des 18. Jahrhunderts.;Peter-Bardens-Straße;M
+way;Erbbeständer des Lichtenbrucher Hofes der davor Temporalbeständer der Ordenskomturei Einsiedel war. Er lebte in der 2. Hälfte des 18. Jahrhunderts.;Peter-Bardens-Straße;M
 way;Q123012;Pfaffplatz;M
 way;Q123012;Pfaffstraße;M
-way;1950, B. nach einem Fln. Der Name kommt von Velten Pfeiffer, der 1697 dort einen Platz erwarb.;Pfeifertälchen;M
+way;Velten Pfeiffer;Pfeifertälchen;M
 way;Q2086812;Philipp-Hepp-Straße;M
 way;Q50358621;Philipp-Mees-Platz;M
 way;Anwohners Philipp Conrad;Philippstraße;M
 way;Q68935;Pollichstraße;M
-way;1984, B. nach Prof. Hanns Dietrich (*1882, †1974 Kaiserslautern). Hanns Dietrich hatte als Lehrer an der Landesgewerbeanstalt Kaiserslautern hohe Verdienste um das pfälzische Kunsthandwerk. Ursprünglich 1983 Adam-Hoffmann-Straße benannt.;Professor-Dietrich-Straße;M
+way;Prof. Hanns Dietrich (*1882 †1974 Kaiserslautern).;Professor-Dietrich-Straße;M
 way;Hufschmied und Ökonom Carl Raab, Mitbegründer Speditionsfirma Großfirma Raab, Karcher & Cie, Essen;Raabengasse;M
 way;Q27941958;Richard-Menges-Straße;M
 way;Q1511;Richard-Wagner-Straße;M
@@ -220,7 +220,7 @@ way;Q77281;Roonstraße;M
 way;Q6527;Rousseaustraße;M
 way;Q70890;Rudolf-Breitscheid-Straße;M
 way;Q12674;Rudolf-Diesel-Straße;M
-way;1990, B. nach Peter Saling, Stadtrat, Ratsbürgermeister, kurpfälzischer Stadt-und Landschultheiß, der 1670 die Salingsmühle gründete.;Salingstraße;M
+way;Peter Saling Stadtrat Ratsbürgermeister kurpfälzischer Stadt-und Landschultheiß;Salingstraße;M
 way;Anwohner Karl Schäfer;Schäferstraße;M
 way;nach einem Anwohner;Schaffnerstraße;M
 way;ersten Anwohner Schalk;Schalkstraße;M
@@ -241,7 +241,7 @@ way;Feldschützen Anton Heuser;Schützenstraße;M
 way;Q537554;Siegfriedstraße;M
 way;Q58577;Siemensstraße;M
 way;Q703356;Slevogtstraße;M
-way;Karl Spaeth, dem Gastwirt des Hotels Zum Donnersberg (Steinstraße 5), (*1789 Kaiserslautern, †1840 ebenda). Bürgermeister von 1827 bis 1834;Spaethstraße;M
+way;Karl Spaeth dem Gastwirt des Hotels Zum Donnersberg (Steinstraße 5) (*1789 Kaiserslautern †1840 ebenda). Bürgermeister von 1827 bis 1834;Spaethstraße;M
 way;Q35802;Spinozastraße;M
 way;Q61151;Sprangerstraße;M
 way;Q676555;St.-Franziskus-Straße;M
@@ -258,7 +258,7 @@ way;Q2418514;Theodor-Zink-Straße;M
 way;Q19816372;Theo-Vondano-straße;M
 way;Q215092;Thomas-Dehler-Straße;M
 way;Schultheißen und Bürgermeister Dyrolf;Tirolfstraße;M
-way;1967, B. nach dem kurpfälzischen Forstmeister Philipp Velmann (Vellmann), welcher 1600 die Wälder um Kaiserslautern beschrieb.;Velmannstraße;M
+way;kurpfälzischen Forstmeister Philipp Velmann (Vellmann) welcher 1600 die Wälder um Kaiserslautern beschrieb.;Velmannstraße;M
 way;Q9068;Voltairestraße;M
 way;Q2063395;Von-Braun-Straße;M
 way;Q102602;Von-der-Goltz-Straße;M
@@ -273,7 +273,7 @@ way;Q451003;Weisgerberstraße;M
 way;Q64634;Werderstraße;M
 way;Q40904;Werner-Heisenberg-Straße;M
 way;Q109540;Wilhelm-Busch-straße;M
-way;2000, B. nach dem Gründer der großen Kaiserslauterer Baufirma “Gebr. Kittelberger”, Herrn Wilhelm Maximilian Kittelberger (*1861, †1931) deren Bauhof an dieser Stelle lag.;Wilhelm-Kittelberger-Straße;M
+way;Gründer der großen Kaiserslauterer Baufirma Gebr. Kittelberger Herrn Wilhelm Maximilian Kittelberger (*1861 †1931) deren Bauhof an dieser Stelle lag.;Wilhelm-Kittelberger-Straße;M
 way;Q60647;Wilhelm-Raabe-Straße;M
 way;Q150652;Wilhelmstraße;M
 way;Wilhelm Sulser;Wilhelm-Sulser-straße;M
@@ -282,4 +282,4 @@ way;Anwohner Carl Winter;Winterstraße;M
 way;Q94863144;Wolpertstraße;M
 way;Q75780;Zeppelinplatz;M
 way;Q498211;Zilleweg;M
-way;1976, B. nach Dr. Ing. h.c. Gottfried Zschocke, (*1852 Suhl, †1927 Kaiserslautern).;Zschockestraße;M
+way;Dr. Ing. h.c. Gottfried Zschocke (*1852 Suhl †1927 Kaiserslautern);Zschockestraße;M
