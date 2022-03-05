@@ -1,285 +1,186 @@
-type,id,name,gender
-way,Familiennamen Flicker,Flickerstal,+
-way,Vornamen einer Anwohnerin,Amalienstraße,F
-way,Q164294,Annastraße,F
-way,Q57541,Augustastraße,F
-way,Q1044212,Carola-Dauber-straße,F
-way,Q7490,Clara-Immerwahr-straße,F
-way,Q60842063,Elisabeth-Kirch-straße,F
-way,Q1768,Ella-Fitzgerald-Weg,F
-way,Q541194,Emmagasse,F
-way,Vornamen einer Anwohnerin,Helenenstraße,F
-way,Q1618237,Hilde-Mattauch-Platz,F
-way,Katharina Werle(*1857 †1903),Katharinenstraße,F
-way,Q142472,Käthe-Kollwitz-Straße,F
-way,Q1825653,Lina-Staab-straße,F
-way,Q2562888,Luisenstraße,F
-way,Q48754987,Lutrinastraße,F
-way,Q7186,Marie-Curie-Straße,F
-way,Q85820,Marie-Juchacz-Straße,F
-way,Vornamen einer Anwohnerin.,Marienstraße,F
-way,Vornamen einer Anwohnerin.,Sophienstraße,F
-way,Q345,St.-Marien-Platz,F
-way,Q2369188,Susanne-Faschon-straße,F
-way,Q233198,Theresienstraße,F
-way,Direktor der 1858 gegründeten Gasanstalt (*1835 K’lautern †1905 K’lautern),Adam-Hoffmann-Straße,M
-way,Q352903,Addi-Schaurer-Platz,M
-way,Vornamen eines Anwohners,Adolfstraße,M
-way,Q60619,Adolph-Kolping-Platz,M
-way,Adrian Pletsch,Adrian-Pletsch-straße,M
-way,Q937,Albert-Einstein-Straße,M
-way,Q49325,Albert-Schweitzer-Straße,M
-way,Q168657,Albertstraße,M
-way,Q153956,Albrechtstraße,M
-way,Q50329402,Alex-Müller-Straße,M
-way,Spitaleinnehmer und späteren Anwalt Franz Anton Abend,Am Abendsberg,M
-way,Müller namens Elbrich,Am Alberichsberg,M
-way,Pächter Hanß Hock genannt der Blutt (Kahlkopf),Am Blutacker,M
-way,Anwohner namens Glas,Am Glasberg,M
-way,Q130221,Am Kaiserwoog,M
-way,Q193507,Am Stophelspfad,M
-way, Bierbrauer und Wohltäter Emil Schandein aus Kaiserslautern,An der Emilsruhe,M
-way,Beständer des Kreuzhofes Johann Nikolaus Assenmacher,Assenmacherstraße,M
-way,August Herrmann,August-Herrmann-straße,M
-way,Q55683930,Balbierstraße,M
-way,Q79789,Barbarossaring,M
-way,Q79789,Barbarossastraße,M
-way,Q255,Beethovenstraße,M
-way,Bierbrauer Franz Daniel Bender (*1815 † 1881),Bendergasse,M
-way,Q1541647,Benzinoring,M
-way,Q8442,Bismarckstraße,M
-way,Q153522,Blücherstraße,M
-way,Ludwig (Louis) Böcking Kaufmann und Mitbegründer des hiesigen Bankhauses Böcking Karcher & Co aus dem die Filiale der Deutschen Bank hervorging,Böckingstraße,M
-way,Q7294,Brahmsstraße,M
-way,Kommerzienrat Carl Billand ab 1898 Direktor des Guss- und Armaturwerkes Kaiserslautern (*1872 Ludwigshafen †1951 Kaiserslautern),Carl-Billand-Straße,M
-way,Carl Denk,Carl-Denk-straße,M
-way,Carl Diem,Carl-Diem-straße,M
-way,Q28058108,Carl-Euler-Straße,M
-way,Q40224,Carl-F.-Benz-Straße,M
-way,Carl Jacob,Carl-Jacob-straße,M
-way,Q67511,Carlo-Schmid-Straße,M
-way,Industriellen Carl Reichert (* 1873 in Kaiserslautern †1961),Carl-Reichert-Straße,M
-way,Q127437,Carl-Schurz-Straße,M
-way,Q107712,Carl-Sonnenschein-Straße,M
-way,Q62482,Casimirring,M
-way,Holzhändler Carl Conrad,Conradstraße,M
-way,Q154751,Cusanusstraße,M
-way,Q27468242,Daennerplatz,M
-way,Q27468242,Daennerstraße,M
-way,Q89439,Damaschkestraße,M
-way,Q19277790,Daniel-Häberle-Straße,M
-way,Q2059114,Denisstraße,M
-way,Q5580,Dürerstraße,M
-way,Q2646,Ebertstraße,M
-way,Kommerzienrat Nikolaus Eckel (* 1815 † 1882),Eckelstraße,M
-way,Zigarrenfabrikanten und Förderer des pfälzischen Tabakanbaues Emil Caesar (* 1854 † 1922),Emil-Caesar-Straße,M
-way,Q1338637,Emmerich-Smola-Platz,M
-way,Kaufmann und Stadtrat Jakob Eppler,Epplergasse,M
-way,Q59529032,Ernst-Christmann-straße,M
-way,Q9130,Erwin-Schrödinger-Straße,M
-way,Q94917980,Eugen-Bindewald-Straße,M
-way,Q1372605,Eugen-Hertel-Straße,M
-way,Q69478,Fauthweg,M
-way,Q158255,Feiningerstraße,M
-way,Q250194,Feuerbachstraße,M
-way,Q76632,Fontanestraße,M
-way,Franz Becht,Franz-Becht-straße,M
-way,Franz Rettig,Franz-Rettig-straße,M
-way,Pädagogen Franz Wilking (*1868 Rothselberg †1944 Kaiserslautern),Franz-Wilking-Straße,M
-way,Q50328768,Franz-Xaver-Baumann-Straße,M
-way,Q213542,Freiherr-vom-Stein-straße,M
-way,Q34787,Friedrich-Engels-Straße,M
-way,Q60505,Friedrich-Karl-Straße,M
-way,Q58600,Friedrichstraße,M
-way,Q22717,Fritz-Walter-Straße,M
-way,Q76679,Fröbelstraße,M
-way,Q62137,Gabelsbergerstraße,M
-way,dort wohnenden Jakob Gall,Gallenhäuschen,M
-way,Georg Rittersbacher,Georg-Rittersbacher-Platz,M
-way,Q43523,Gerhart-Hauptmann-Straße,M
-way,Q39544654,Gienanthstraße,M
-way,Glaser Fr. Seilberger,Glaserstraße,M
-way,Q103651,Glenn-Miller-Weg,M
-way,Q65591,Goebenstraße,M
-way,Q5879,Goethestraße,M
-way,Q122370,Gottfried-Keller-straße,M
-way,Q68325,Gottfried-Kinkel-Straße,M
-way,Q57098,Gottlieb-Daimler-Straße,M
-way,Q20882,Gustav-Eiffel-straße,M
-way,Q2573,Gustav-Heinemann-straße,M
-way,Q60549,Gustav-Nachtigal-straße,M
-way,Q8958,Gutenbergstraße,M
-way,Bürgermeister Johann Philipp Hack (*1802 †1865) Förderer des Turnwesens,Hackstraße,M
-way,Häfner und Tonwarenfabrikanten Lorenz Mitter.,Häfnerstraße,M
-way,Q7302,Händelstraße,M
-way,Q57189,Hans-Geiger-Straße,M
-way,Q1580947,Hans-Küfner-straße,M
-way,Q92392,Hartmannstraße,M
-way,Q7349,Haydnstraße,M
-way,Q9235,Hegelstraße,M
-way,Q44403,Heinrich-Heine-Straße,M
-way,Heinrich Schmitt,Heinrich-Schmitt-straße,M
-way,Heinz Friedel,Heinz-Friedel-straße,M
-way,Prof. Hellmut Hartert (†1993),Hellmut-Hartert-Straße,M
-way,Q155547,Herderstraße,M
-way,Baumeister und Industriellen Hermann Gehlen (*1876 Vörden/ Westf. †1952 Kaiserslautern),Hermann-Gehlen-Straße,M
-way,Q25973,Hermann-Hesse-Straße,M
-way,Q77486,Hermann-Löns-Straße,M
-way,Q213533,Herzog-von-Weimar-Straße,M
-way,Q91417,Hilgardring,M
-way,Q15821701,Höfflerstraße,M
-way,Q55681958,Hohlestraße,M
-way,Q75889,Hölderlinstraße,M
-way,Q1731149,Holtzendorffstraße,M
-way,Q81071693,Hornstraße,M
-way,Q1358757,Huberstraße,M
-way,Q6694,Humboldtstraße,M
-way,Bürgermeister Daniel Hummel (*1771 Westhofen bei Straßburg †1850 Kaiserslautern),Hummelstraße,M
-way,Q1611561,Hussongstraße,M
-way,Obersteiger des früheren Bergwerkes Jacob Diehl seit etwa 1740 tätig.,Jacob-Diehl-Straße,M
-way,Industriellen Jacob Pfeiffer (*1809 Thaleischweiler †1888 Kaiserslautern),Jacob-Pfeiffer-Straße,M
-way,Q50824909,Jacobstraße,M
-way,Q1251924,Jägerstraße,M
-way,Jakob Blenk,Jakob-Blenk-straße,M
-way,Vornamen eines Bewohners,Josefstraße,M
-way,Joseph Neumayer,Joseph-Neumayer-straße,M
-way,Julius Gravius,Julius-Gravius-Weg,M
-way,Julius Krieger,Julius-Krieger-straße,M
-way,Andreas (genannt Julius) Küchler (*1839 Mannheim †1925 Kaiserslautern),Julius-Küchler-Straße,M
-way,Q215845,Jung-Stilling-Straße,M
-way,Q150652,Kaiserstraße,M
-way,Q61064,Kandinskystraße,M
-way,Q9312,Kantstraße,M
-way,Kommerzienrat Carl Karcher (*1841 Kaiserslautern †1899 Kaiserslautern) Mitbegründer des hiesigen Bankhauses Boecking Karcher & Cie heute Filiale der Deutschen Bank,Karcherstraße,M
-way,Kommerzienrat und Baumeister Karl Kröckel (*1861 †1915 jeweils Kaiserslautern),Karl-Kröckel-Straße,M
-way,Karl Lambrecht,Karl-Lambrecht-straße,M
-way,Q9061,Karl-Marx-Straße,M
-way,Q77403,Karl-Peters-Straße,M
-way,Q27900345,Karl-Pfaff-Siedlung,M
-way,Q44961,Karl-Theodor-Platz,M
-way,Q9696,Kennedyplatz,M
-way,Schmied Joseph Kennel,Kennelstraße,M
-way,Q626805,Kettelerstraße,M
-way,Q19960151,Kölchenstraße,M
-way,Q44825,Königstraße,M
-way,Q2492,Konrad-Adenauer-Straße,M
-way,Q60093,Konrad-Zuse-straße,M
-way,Anwohner Anton Kuhn Schmied und Wagenwärter (*1819 Schrollbach †1886 Kaiserslautern),Kuhnstraße,M
-way,Q57465,Kurt-Schumacher-Straße,M
-way,Q75784,Lassallestraße,M
-way,Q9047,Leibnizstraße,M
-way,Q34628,Lessingstraße,M
-way,Q16571,Liebigstraße,M
-way,Hans Jacob Lothringer der dort 1720/1736 ein Erbbestandsgut besaß,Lothringer Dell,M
-way,Hans Jacob Lothringer der dort 1720/1736 ein Erbbestandsgut besaß,Lothringer Schlag,M
-way,Hans Jacob Lothringer der dort 1720/1736 ein Erbbestandsgut besaß,Lothringer Straße,M
-way,Q2496,Ludwig-Erhard-Straße,M
-way,Q44361,Ludwigstraße,M
-way,Q45309,Ludwig-Thoma-Straße,M
-way,Q23000770,Ludwig-Waldschmidt-Straße,M
-way,wahrscheinlich nach dem 1269 genannten Bürger Lotzo dem dortigen früheren Gartenbesitzer,Lutzerstraße,M
-way,Anwohner Georg Lux,Luxstraße,M
-way,Q9554,Martin-Luther-Straße,M
-way,Q9021,Max-Planck-straße,M
-way,Q44319,Maxstraße,M
-way,Q77464,Medicusstraße,M
-way,Q164961,Menzelstraße,M
-way,Q57968,Merianstraße,M
-way,Q1150,Merkurstraße,M
-way,Q1446794,Meuthstraße,M
-way,Q66808,Möllendorfstraße,M
-way,Q44205,Moltkestraße,M
-way,Q254,Mozartstraße,M
-way,Georg Michael v. Obermaier. (*1789 Neukirchen b. Hl. Blut † nach 1862 München),Obermaierstraße,M
-way,Q15438473,Orffstraße,M
-way,Bürgermeister Hofrat Dr. med. Theodor Orth (*1837 †1913),Orthstraße,M
-way,Q458816,Oskar-Schlemmer-Ring,M
-way,Wirt namens Oster (1528),Osterstraße,M
-way,Q315704,Ottmar-Walter-straße,M
-way,Otto Hahn,Otto-Hahn-straße,M
-way,Q44825,Ottostraße,M
-way,Q1290,Pascalstraße,M
-way,Q57089,Paul-Ehrlich-Straße,M
-way,Q22611,Paul-Münch-Straße,M
-way,Q9200,Paulstraße,M
-way,Erbbeständer des Lichtenbrucher Hofes der davor Temporalbeständer der Ordenskomturei Einsiedel war. Er lebte in der 2. Hälfte des 18. Jahrhunderts.,Peter-Bardens-Straße,M
-way,Q123012,Pfaffplatz,M
-way,Q123012,Pfaffstraße,M
-way,Velten Pfeiffer,Pfeifertälchen,M
-way,Q2086812,Philipp-Hepp-Straße,M
-way,Q50358621,Philipp-Mees-Platz,M
-way,Anwohners Philipp Conrad,Philippstraße,M
-way,Q68935,Pollichstraße,M
-way,Prof. Hanns Dietrich (*1882 †1974 Kaiserslautern),Professor-Dietrich-Straße,M
-way,Hufschmied und Ökonom Carl Raab Mitbegründer Speditionsfirma Großfirma Raab Karcher & Cie Essen,Raabengasse,M
-way,Q27941958,Richard-Menges-Straße,M
-way,Q1511,Richard-Wagner-Straße,M
-way,Löwenapotheker Johann Riem (*1739 Frankenthal  †1807 als Commissionsrat in Dresden),Riemstraße,M
-way,Q91364,Röchlingstraße,M
-way,Q77281,Roonstraße,M
-way,Q6527,Rousseaustraße,M
-way,Q70890,Rudolf-Breitscheid-Straße,M
-way,Q12674,Rudolf-Diesel-Straße,M
-way,Peter Saling Stadtrat Ratsbürgermeister kurpfälzischer Stadt-und Landschultheiß,Salingstraße,M
-way,Anwohner Karl Schäfer,Schäferstraße,M
-way,nach einem Anwohner,Schaffnerstraße,M
-way,ersten Anwohner Schalk,Schalkstraße,M
-way,Q15808008,Schandeinstraße,M
-way,Anwohner Scheer,Scheerstraße,M
-way,Q9082,Scheffelstraße,M
-way,Q60070,Schellingstraße,M
-way,Q22670,Schillerplatz,M
-way,Q22670,Schillerstraße,M
-way,Anwohner und Schmied Michael Walter.,Schmiedstraße,M
-way,Hotelier Jacob Schneider,Schneiderstraße,M
-way,Q1685817,Schoenstraße,M
-way,Q38193,Schopenhauerstraße,M
-way,Q153160,Schreberstraße,M
-way,Q7312,Schubertstraße,M
-way,Schuhmacher Peter Zundel,Schusterstraße,M
-way,Feldschützen Anton Heuser,Schützenstraße,M
-way,Q537554,Siegfriedstraße,M
-way,Q58577,Siemensstraße,M
-way,Q703356,Slevogtstraße,M
-way,Karl Spaeth dem Gastwirt des Hotels Zum Donnersberg (Steinstraße 5) (*1789 Kaiserslautern †1840 ebenda). Bürgermeister von 1827 bis 1834,Spaethstraße,M
-way,Q35802,Spinozastraße,M
-way,Q61151,Sprangerstraße,M
-way,Q676555,St.-Franziskus-Straße,M
-way,Q133704,St.-Martins-Platz,M
-way,Q61474,Steigerhügel,M
-way,Q61474,Steinmetzstraße,M
-way,Q103955,Stresemannstraße,M
-way,Gerichtssekretär Karl Sturm (*1824 Speyer) 1873 bis 1895 Vorstand des Verschönerungsvereins,Sturmstraße,M
-way,Q2594,Theodor-Heuss-Straße,M
-way,Q94812315,Theodor-Kiefer-Straße,M
-way,Q2418131,Theodor-Pixis-Straße,M
-way,Q26993,Theodor-Storm-Straße,M
-way,Q2418514,Theodor-Zink-Straße,M
-way,Q19816372,Theo-Vondano-straße,M
-way,Q215092,Thomas-Dehler-Straße,M
-way,Schultheißen und Bürgermeister Dyrolf,Tirolfstraße,M
-way,kurpfälzischen Forstmeister Philipp Velmann (Vellmann) welcher 1600 die Wälder um Kaiserslautern beschrieb.,Velmannstraße,M
-way,Q9068,Voltairestraße,M
-way,Q2063395,Von-Braun-Straße,M
-way,Q102602,Von-der-Goltz-Straße,M
-way,Q76456,Von-Miller-Straße,M
-way,Q73525,Walter-Flex-Straße,M
-way,Q61071,Walter-Gropius-Straße,M
-way,Q2545117,Walter-Kolb-straße,M
-way,Walter Sommer,Walter-Sommer-straße,M
-way,Q23,Washington-Square,M
-way,Q154812,Weberstraße,M
-way,Q451003,Weisgerberstraße,M
-way,Q64634,Werderstraße,M
-way,Q40904,Werner-Heisenberg-Straße,M
-way,Q109540,Wilhelm-Busch-straße,M
-way,Gründer der großen Kaiserslauterer Baufirma Gebr. Kittelberger Herrn Wilhelm Maximilian Kittelberger (*1861 †1931) deren Bauhof an dieser Stelle lag.,Wilhelm-Kittelberger-Straße,M
-way,Q60647,Wilhelm-Raabe-Straße,M
-way,Q150652,Wilhelmstraße,M
-way,Wilhelm Sulser,Wilhelm-Sulser-straße,M
-way,Q2514,Willy-Brandt-Platz,M
-way,Anwohner Carl Winter,Winterstraße,M
-way,Q94863144,Wolpertstraße,M
-way,Q75780,Zeppelinplatz,M
-way,Q498211,Zilleweg,M
-way,Dr. Ing. h.c. Gottfried Zschocke (*1852 Suhl †1927 Kaiserslautern),Zschockestraße,M
+name,source,gender,wikidata,type
+Annastraße,wikidata,F,Q164294,way
+Augustastraße,wikidata,F,Q57541,way
+Carola-Dauber-Straße,wikidata,F,Q1044212,way
+Clara-Immerwahr-Straße,wikidata,F,Q7490,way
+Elisabeth-Kirch-Straße,wikidata,F,Q60842063,way
+Ella-Fitzgerald-Weg,wikidata,F,Q1768,way
+Käthe-Kollwitz-Straße,wikidata,F,Q142472,way
+Lina-Staab-Straße,wikidata,F,Q1825653,way
+Luisenstraße,wikidata,F,Q2562888,way
+Marie-Curie-Straße,wikidata,F,Q7186,way
+Marie-Juchacz-Straße,wikidata,F,Q85820,way
+St.-Marien-Platz,wikidata,F,Q345,way
+Susanne-Faschon-Straße,wikidata,F,Q2369188,way
+Theresienstraße,wikidata,F,Q233198,way
+Adolph-Kolping-Platz,wikidata,M,Q60619,way
+Albert-Einstein-Straße,wikidata,M,Q937,way
+Albert-Schweitzer-Straße,wikidata,M,Q49325,way
+Albertstraße,wikidata,M,Q168657,way
+Albrechtstraße,wikidata,M,Q153956,way
+Alex-Müller-Straße,wikidata,M,Q50329402,way
+"Am Kaiserwoog",wikidata,M,Q130221,way
+"Am Stophelspfad",wikidata,M,Q193507,way
+Balbierstraße,wikidata,M,Q55683930,way
+Barbarossaring,wikidata,M,Q79789,way
+Barbarossastraße,wikidata,M,Q79789,way
+Beethovenstraße,wikidata,M,Q255,way
+Benzinoring,wikidata,M,Q1541647,way
+Bismarckstraße,wikidata,M,Q8442,way
+Blücherstraße,wikidata,M,Q153522,way
+Brahmsstraße,wikidata,M,Q7294,way
+Carl-Euler-Straße,wikidata,M,Q28058108,way
+Carl-F.-Benz-Straße,wikidata,M,Q40224,way
+Carl-Schurz-Straße,wikidata,M,Q127437,way
+Carl-Sonnenschein-Straße,wikidata,M,Q107712,way
+Carlo-Schmid-Straße,wikidata,M,Q67511,way
+Casimirring,wikidata,M,Q62482,way
+Cusanusstraße,wikidata,M,Q154751,way
+Daennerstraße,wikidata,M,Q27468242,way
+Damaschkestraße,wikidata,M,Q89439,way
+Daniel-Häberle-Straße,wikidata,M,Q19277790,way
+Denisstraße,wikidata,M,Q2059114,way
+Dürerstraße,wikidata,M,Q5580,way
+Ebertstraße,wikidata,M,Q2646,way
+Emmerich-Smola-Platz,wikidata,M,Q1338637,way
+Ernst-Christmann-Straße,wikidata,M,Q59529032,way
+Erwin-Schrödinger-Straße,wikidata,M,Q9130,way
+Eugen-Bindewald-Straße,wikidata,M,Q94917980,way
+Eugen-Hertel-Straße,wikidata,M,Q1372605,way
+Fauthweg,wikidata,M,Q69478,way
+Feiningerstraße,wikidata,M,Q158255,way
+Feuerbachstraße,wikidata,M,Q250194,way
+Fontanestraße,wikidata,M,Q76632,way
+Franz-Xaver-Baumann-Straße,wikidata,M,Q50328768,way
+Friedrich-Engels-Straße,wikidata,M,Q34787,way
+Friedrich-Karl-Straße,wikidata,M,Q60505,way
+Friedrichstraße,wikidata,M,Q58600,way
+Fritz-Walter-Straße,wikidata,M,Q22717,way
+Fröbelstraße,wikidata,M,Q76679,way
+Gabelsbergerstraße,wikidata,M,Q62137,way
+Gerhart-Hauptmann-Straße,wikidata,M,Q43523,way
+Gienanthstraße,wikidata,M,Q39544654,way
+Glenn-Miller-Weg,wikidata,M,Q103651,way
+Goebenstraße,wikidata,M,Q65591,way
+Goethestraße,wikidata,M,Q5879,way
+Gottfried-Keller-Straße,wikidata,M,Q122370,way
+Gottfried-Kinkel-Straße,wikidata,M,Q68325,way
+Gottlieb-Daimler-Straße,wikidata,M,Q57098,way
+Gustav-Eiffel-Straße,wikidata,M,Q20882,way
+Gustav-Heinemann-Straße,wikidata,M,Q2573,way
+Gustav-Nachtigal-Straße,wikidata,M,Q60549,way
+Gutenbergstraße,wikidata,M,Q8958,way
+Händelstraße,wikidata,M,Q7302,way
+Hans-Geiger-Straße,wikidata,M,Q57189,way
+Hans-Küfner-Straße,wikidata,M,Q1580947,way
+Hartmannstraße,wikidata,M,Q92392,way
+Haydnstraße,wikidata,M,Q7349,way
+Hegelstraße,wikidata,M,Q9235,way
+Heinrich-Heine-Straße,wikidata,M,Q44403,way
+Herderstraße,wikidata,M,Q155547,way
+Hermann-Hesse-Straße,wikidata,M,Q25973,way
+Hermann-Löns-Straße,wikidata,M,Q77486,way
+Herzog-von-Weimar-Straße,wikidata,M,Q213533,way
+Hilgardring,wikidata,M,Q91417,way
+Höfflerstraße,wikidata,M,Q15821701,way
+Hohlestraße,wikidata,M,Q55681958,way
+Hölderlinstraße,wikidata,M,Q75889,way
+Holtzendorffstraße,wikidata,M,Q1731149,way
+Hornstraße,wikidata,M,Q81071693,way
+Huberstraße,wikidata,M,Q1358757,way
+Humboldtstraße,wikidata,M,Q6694,way
+Hussongstraße,wikidata,M,Q1611561,way
+Jacobstraße,wikidata,M,Q50824909,way
+Jägerstraße,wikidata,M,Q1251924,way
+Jung-Stilling-Straße,wikidata,M,Q215845,way
+Kaiserstraße,wikidata,M,Q150652,way
+Kandinskystraße,wikidata,M,Q61064,way
+Kantstraße,wikidata,M,Q9312,way
+Karl-Marx-Straße,wikidata,M,Q9061,way
+Karl-Peters-Straße,wikidata,M,Q77403,way
+Karl-Pfaff-Siedlung,wikidata,M,Q27900345,way
+Karl-Theodor-Platz,wikidata,M,Q44961,way
+Kennedyplatz,wikidata,M,Q9696,way
+Kettelerstraße,wikidata,M,Q626805,way
+Kölchenstraße,wikidata,M,Q19960151,way
+Königstraße,wikidata,M,Q44825,way
+Konrad-Adenauer-Straße,wikidata,M,Q2492,way
+Konrad-Zuse-Straße,wikidata,M,Q60093,way
+Kurt-Schumacher-Straße,wikidata,M,Q57465,way
+Lassallestraße,wikidata,M,Q75784,way
+Leibnizstraße,wikidata,M,Q9047,way
+Lessingstraße,wikidata,M,Q34628,way
+Liebigstraße,wikidata,M,Q16571,way
+Ludwig-Erhard-Straße,wikidata,M,Q2496,way
+Ludwig-Thoma-Straße,wikidata,M,Q45309,way
+Ludwig-Waldschmidt-Straße,wikidata,M,Q23000770,way
+Ludwigstraße,wikidata,M,Q44361,way
+Martin-Luther-Straße,wikidata,M,Q9554,way
+Max-Planck-Straße,wikidata,M,Q9021,way
+Maxstraße,wikidata,M,Q44319,way
+Medicusstraße,wikidata,M,Q77464,way
+Menzelstraße,wikidata,M,Q164961,way
+Merianstraße,wikidata,M,Q57968,way
+Meuthstraße,wikidata,M,Q1446794,way
+Möllendorfstraße,wikidata,M,Q66808,way
+Moltkestraße,wikidata,M,Q44205,way
+Mozartstraße,wikidata,M,Q254,way
+Orffstraße,wikidata,M,Q15438473,way
+Oskar-Schlemmer-Ring,wikidata,M,Q458816,way
+Pascalstraße,wikidata,M,Q1290,way
+Paul-Ehrlich-Straße,wikidata,M,Q57089,way
+Paul-Münch-Straße,wikidata,M,Q22611,way
+Paulstraße,wikidata,M,Q9200,way
+Pfaffplatz,wikidata,M,Q123012,way
+Pfaffstraße,wikidata,M,Q123012,way
+Philipp-Hepp-Straße,wikidata,M,Q2086812,way
+Philipp-Mees-Platz,wikidata,M,Q50358621,way
+Pollichstraße,wikidata,M,Q68935,way
+Richard-Menges-Straße,wikidata,M,Q27941958,way
+Richard-Wagner-Straße,wikidata,M,Q1511,way
+Röchlingstraße,wikidata,M,Q91364,way
+Roonstraße,wikidata,M,Q77281,way
+Rousseaustraße,wikidata,M,Q6527,way
+Rudolf-Breitscheid-Straße,wikidata,M,Q70890,way
+Rudolf-Diesel-Straße,wikidata,M,Q12674,way
+Schandeinstraße,wikidata,M,Q15808008,way
+Scheffelstraße,wikidata,M,Q9082,way
+Schellingstraße,wikidata,M,Q60070,way
+Schillerplatz,wikidata,M,Q22670,way
+Schillerstraße,wikidata,M,Q22670,way
+Schoenstraße,wikidata,M,Q1685817,way
+Schopenhauerstraße,wikidata,M,Q38193,way
+Schreberstraße,wikidata,M,Q153160,way
+Schubertstraße,wikidata,M,Q7312,way
+Siemensstraße,wikidata,M,Q58577,way
+Slevogtstraße,wikidata,M,Q703356,way
+Spinozastraße,wikidata,M,Q35802,way
+Sprangerstraße,wikidata,M,Q61151,way
+St.-Franziskus-Straße,wikidata,M,Q676555,way
+St.-Martins-Platz,wikidata,M,Q133704,way
+Steigerhügel,wikidata,M,Q61474,way
+Steinmetzstraße,wikidata,M,Q61474,way
+Stresemannstraße,wikidata,M,Q103955,way
+Theo-Vondano-Straße,wikidata,M,Q19816372,way
+Theodor-Heuss-Straße,wikidata,M,Q2594,way
+Theodor-Kiefer-Straße,wikidata,M,Q94812315,way
+Theodor-Pixis-Straße,wikidata,M,Q2418131,way
+Theodor-Storm-Straße,wikidata,M,Q26993,way
+Theodor-Zink-Straße,wikidata,M,Q2418514,way
+Thomas-Dehler-Straße,wikidata,M,Q215092,way
+Voltairestraße,wikidata,M,Q9068,way
+Von-Braun-Straße,wikidata,M,Q2063395,way
+Von-Miller-Straße,wikidata,M,Q76456,way
+Von-der-Goltz-Straße,wikidata,M,Q102602,way
+Walter-Flex-Straße,wikidata,M,Q73525,way
+Walter-Gropius-Straße,wikidata,M,Q61071,way
+Walter-Kolb-Straße,wikidata,M,Q2545117,way
+Weberstraße,wikidata,M,Q154812,way
+Weisgerberstraße,wikidata,M,Q451003,way
+Werderstraße,wikidata,M,Q64634,way
+Werner-Heisenberg-Straße,wikidata,M,Q40904,way
+Wilhelm-Busch-Straße,wikidata,M,Q109540,way
+Wilhelm-Raabe-Straße,wikidata,M,Q60647,way
+Wilhelmstraße,wikidata,M,Q150652,way
+Willy-Brandt-Platz,wikidata,M,Q2514,way
+Wolpertstraße,wikidata,M,Q94863144,way
