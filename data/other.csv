@@ -21,7 +21,10 @@ Adrian-Pletsch-Straße,,,,way
 Ahornweg,,,,way
 Akazienweg,,,,way
 Aktienstraße,,,,way
+"Alabama Circle",,,,way
 "Alabama Street",,,,way
+"Alaska Circle",,,,way
+"Alaska Drive",,,,way
 Alemannenstraße,,,,way
 Alleestraße,,,,way
 Almenweg,,,,way
@@ -46,7 +49,6 @@ Altwiesstraße,,,,way
 "Am Buchenwald",,,,way
 "Am Engelshof",,,,way
 "Am Eselsbach",,,,way
-"Am Eulenberg",,,,way
 "Am Fischerrück",,,,way
 "Am Franzosenstein",,,,way
 "Am Glasberg",,,,way
@@ -192,11 +194,13 @@ Carl-Reichert-Straße,,,,way
 Carmerstraße,,,,way
 "Carolina Avenue",,,,way
 "Colorado Avenue",,,,way
+"Colorado Place",,,,way
 Columbia-Straße,,,,way
 "Connecticut Avenue",,,,way
 Conradstraße,,,,way
 "DFKI Plaza",,,,relation
 Dachsdelle,,,,way
+"Daenner Kaserne",,,,way
 Dahlienweg,,,,way
 Dammühle,,,,way
 "Dansenberger Straße",,,,way
@@ -227,7 +231,6 @@ Ellenbrunnerstraße,,,,way
 Emil-Caesar-Straße,,,,way
 Engelsgasse,,,,way
 Entenstraße,,,,way
-Entersweilerhof,,,,way
 Entersweilerstraße,,,,way
 Epplergasse,,,,way
 Erbsenberg,,,,way
@@ -335,10 +338,13 @@ Hasenstraße,,,,way
 Haspelstraße,,,,way
 Hauerweg,,,,way
 Hautzenbergstraße,,,,way
+"Hawaii Circle",,,,way
 Hechtstraße,,,,way
 Heideweg,,,,way
 Heiligenstraße,,,,way
+Heinrich-Berger-Straße,,,,way
 Heinrich-Schmitt-Straße,,,,way
+Heinz-Firedel-Straße,,,,way
 Helenenstraße,,,,way
 Hellmut-Hartert-Straße,,,,way
 Herbststraße,,,,way
@@ -346,7 +352,6 @@ Hermann-Gehlen-Straße,,,,way
 "Hermanns Wald",,,,way
 Herrenwiesental,,,,way
 Hertelsbrunnenring,,,,way
-"Hertelsbrunner Hof",,,,way
 Herzog-Karl-Straße,,,,way
 Heustraße,,,,way
 Hilde-Greller-Weg,,,,way
@@ -374,6 +379,7 @@ Hühnerstraße,,,,way
 Hummelstraße,,,,way
 Husarenäcker,,,,way
 Hüttenweg,,,,way
+"Idaho Circle",,,,way
 "Im Altmannsfeld",,,,way
 "Im Bärenloch",,,,way
 "Im Birngarten",,,,way
@@ -429,6 +435,7 @@ Julius-Küchler-Straße,,,,way
 Kahlenbergstraße,,,,way
 Kaiserbergring,,,,way
 "Kaisermühler Straße",,,,way
+"Kaiserslautern Army Depot",,,,way
 Kalckreuthstraße,,,,way
 Kammgarnstraße,,,,way
 Kanalstraße,,,,way
@@ -449,7 +456,6 @@ Kellereiwaldstraße,,,,way
 Kellerstraße,,,,way
 Keltenweg,,,,way
 Kennelstraße,,,,way
-"Kentucky Street",,,,way
 Kerststraße,,,,way
 Kieferberg,,,,way
 Kimmelgarten,,,,way
@@ -506,7 +512,7 @@ Loreleistraße,,,,way
 "Lothringer Dell",,,,way
 "Lothringer Schlag",,,,way
 "Lothringer Straße",,,,way
-"Lousiana Street",,,,way
+"Louisiana Street",,,,way
 Löwenstraße,,,,way
 Ludwig-Ritter-von-Stempel-Platz,,,,way
 "Ludwigshafener Straße",,,,way
@@ -534,6 +540,8 @@ Meisenweg,,,,way
 Mennonitenstraße,,,,way
 "Merseburger Straße",,,,way
 Metzenäcker,,,,way
+"Mississippi Circle",,,,way
+"Mississippi Street",,,,way
 Mittelweg,,,,way
 "Mölschbacher Straße",,,,way
 Mooswiesertal,,,,way
@@ -548,8 +556,10 @@ Nadelstraße,,,,way
 "Naumburger Straße",,,,way
 Nelkenstraße,,,,way
 "Neue Straße",,,,way
+"New Jersey Circle",,,,way
 Newhamstraße,,,,way
 Nordbahnstraße,,,,way
+"North Dakota Street",,,,way
 "Obere Straße",,,,way
 "Oberer Rossrück",,,,way
 Obermaierstraße,,,,way
@@ -597,6 +607,8 @@ Rauschenweg,,,,way
 Rehstraße,,,,way
 Reichswaldstraße,,,,way
 Rheinheimerpfad,,,,way
+"Rhine Ordnance Barracks",,,,way
+"Rhode Island Circle",,,,way
 Riemstraße,,,,way
 Riesenstraße,,,,way
 Ringstraße,,,,way
@@ -619,7 +631,6 @@ Rummelstraße,,,,way
 Rundwiesen,,,,way
 Rupprechtstraße,,,,way
 Rußgasse,,,,way
-Rütschhof,,,,way
 Rütschhofstraße,,,,way
 Saalstraße,,,,way
 Saarstraße,,,,way
@@ -654,6 +665,7 @@ Schumannstraße,,,,way
 Schusterstraße,,,,way
 Schützenstraße,,,,way
 "Schwarzer Weg",,,,way
+"Second Avenue",,,,way
 Sedanplatz,,,,way
 Sedanstraße,,,,way
 Seilerstraße,,,,way
@@ -667,6 +679,7 @@ Sonnenberg,,,,way
 Sonnenstraße,,,,way
 Sonntagstraße,,,,way
 Sophienstraße,,,,way
+"South Dakota Street",,,,way
 Spaethstraße,,,,way
 "Spicherer Straße",,,,way
 Spinnereistraße,,,,way
@@ -758,6 +771,7 @@ Wollstraße,,,,way
 Woogstraße,,,,way
 "Wormser Straße",,,,way
 Wörthstraße,,,,way
+"Wyoming Circle",,,,way
 Zeisigstraße,,,,way
 Zeppelinplatz,,,,way
 Ziegelscheuer,,,,way
@@ -777,7 +791,6 @@ Zschockestraße,,,,way
 "Zur Geißdell",,,,way
 "Zur Grube",,,,way
 "Zur Halde",,,,way
-"Zur Kläranlage",,,,way
 "Zur Pariser Straße",,,,way
 "Zur Spicherer Straße",,,,way
 "Zur Weide",,,,way
