@@ -1,4 +1,17 @@
 name,source,gender,wikidata,type
+Aalstraße,wikidata,-,Q26387,way
+Bännjerstraße,wikidata,-,Q631166,way
+"Breslauer Straße",wikidata,-,Q1799,way
+Emmagasse,wikidata,-,Q541194,way
+Esperantostraße,wikidata,-,Q143,way
+Fliederweg,wikidata,-,Q157449,way
+"Gleiwitzer Straße",wikidata,-,Q105084,way
+"Greifswalder Straße",wikidata,-,Q4098,way
+Lutrinastraße,wikidata,-,Q48754987,way
+Merkurstraße,wikidata,-,Q1150,way
+"Sickinger Straße",wikidata,-,Q2281560,way
+Siegfriedstraße,wikidata,-,Q537554,way
+"Wartenberger Weg",wikidata,-,Q875753,way
 Annastraße,wikidata,F,Q164294,way
 Augustastraße,wikidata,F,Q57541,way
 Carola-Dauber-Straße,wikidata,F,Q1044212,way
@@ -126,6 +139,7 @@ Moltkestraße,wikidata,M,Q44205,way
 Mozartstraße,wikidata,M,Q254,way
 Orffstraße,wikidata,M,Q15438473,way
 Oskar-Schlemmer-Ring,wikidata,M,Q458816,way
+"Pariser Straße",wikidata,M,Q150652,way
 Pascalstraße,wikidata,M,Q1290,way
 Paul-Ehrlich-Straße,wikidata,M,Q57089,way
 Paul-Münch-Straße,wikidata,M,Q22611,way
